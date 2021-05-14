@@ -19,7 +19,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Mapa interactivo
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.htm')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('https://x-road.global/xroad-world-map')" target="_blank")
                 span Enlace Web
                 i.fas.fa-link
       .col-lg-4
@@ -130,29 +130,7 @@
           strong Componente 1
         p.mb-3
           strong X-Road.
-        p Componente base de la plataforma que se encarga de habilitar las capacidades para realizar el #[strong intercambio seguro de datos], de manera distribuida, con un tráfico de datos cifrados con estampa cronológica de tiempo.
-        
-    .titulo-segundo.mb-5
-      #t_4_4.h4 4.4 Actividad didáctica 1 
-
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.tarjeta--azul.h-100.d-flex.align-items-center
-          figure
-            img.img-a(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9
-        p Por favor organice correctamente la siguiente afirmación.
-        p.mb-5 Arrastre y suelte el texto en gris a los espacios disponibles.
-        .tarjeta.tarjeta.morada.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Actividad 1.
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
-
-    
+        p Componente base de la plataforma que se encarga de habilitar las capacidades para realizar el #[strong intercambio seguro de datos], de manera distribuida, con un tráfico de datos cifrados con estampa cronológica de tiempo.    
 
 </template>
 

@@ -42,26 +42,24 @@
     .row
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
-          img(src='@/assets/curso/tema_1/img_4.png' alt='AvatarTop')
+          img.mb-3(src='@/assets/curso/tema_1/img_4.svg' alt='AvatarTop')
           .tarjeta.color-secundario.p-4
             .h4.text-center Capa intermedia
             p Funciona como una #[strong capa intermedia] entre los sistemas de información que intercambian información (proveedores y consumidores).
 
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
-          img(src='@/assets/curso/tema_1/img_5.png' alt='AvatarTop')
+          img.mb-3(src='@/assets/curso/tema_1/img_5.svg' alt='AvatarTop')
           .tarjeta.color-secundario.p-4
             .h4.text-center Confianza
             p La comunicación dentro de X-Road se basa en la #[strong Confianza:] las entidades con certificados digitales válidos pueden intercambiar datos.
 
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
-          img(src='@/assets/curso/tema_1/img_6.png' alt='AvatarTop')
+          img.mb-3(src='@/assets/curso/tema_1/img_6.svg' alt='AvatarTop')
           .tarjeta.color-secundario.p-4
             .h4.text-center Acceso a los servicios
-            p Las entidades involucradas en el intercambio de información, definen las #[strong restricciones de acceso] a sus datos. 
-
-
+            p Las entidades involucradas en el intercambio de información, definen las #[strong restricciones de acceso] a sus datos.
     
 </template>
 
