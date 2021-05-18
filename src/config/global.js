@@ -175,8 +175,8 @@ export default {
         regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'María Isabel Román Rueda',
-        cargo: 'Revisora de estilo',
+        nombre: 'Rafael Augusto Mantilla Lopez',
+        cargo: 'Revisor de contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
