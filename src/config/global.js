@@ -174,12 +174,6 @@ export default {
         centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
-      {
-        nombre: 'Rafael Augusto Mantilla Lopez',
-        cargo: 'Revisor de contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
     ],
     desarrolloProducto: [
       {
@@ -201,6 +195,12 @@ export default {
       {
         nombre: 'Ricardo Alonso González Vargas',
         cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Rafael Augusto Mantilla Lopez',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
