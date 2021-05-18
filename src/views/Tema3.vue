@@ -51,7 +51,7 @@
             span.text-bold 4- 
             | Operar los componentes centrales del software X-Road.
 
-        p En Colombia el propietario es el Ministerio de Tecnologías de la Información y las Comunicaciones - #[strong MinTIC], quien a través de la Agencia Nacional Digital - #[strong AND], realiza las labores de #[strong Articulador] del ecosistema.
+        p En Colombia el propietario es el Ministerio de Tecnologías de la Información y las Comunicaciones - #[strong MinTIC], quien a través de la Agencia Nacional Digital - #[strong AND], realiza las labores de #[strong articulador] del ecosistema.
 
       .col-lg-4
         ol.lista-ol

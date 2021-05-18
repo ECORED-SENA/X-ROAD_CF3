@@ -16,7 +16,7 @@
         .tarjeta.tarjeta.morada.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Actividad de repaso
+              p.fw-bold.mb-0 Introducción a X-Road
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar

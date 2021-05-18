@@ -23,10 +23,10 @@
 
         .list
           .list__item
-              .list__item__bulletNumber.color-list_1
+              .list__item__bulletNumber
           .list__txt    
             p.mb-2.m-top Seguridad, confidencialidad, integridad y autenticidad.
-            | X-Road garantiza a #[strong Confidencialidad] e #[strong integridad] de los datos intercambiados.
+            | X-Road garantiza a #[strong confidencialidad] e #[strong integridad] de los datos intercambiados.
 
       .col-lg-4
         img.img-a(src="@/assets/curso/tema_2/img_1.png")
@@ -35,35 +35,29 @@
       .col-lg-6
         .list.mb-3
           .list__item
-              .list__item__bulletNumber.color-list_2
+              .list__item__bulletNumber
           .list__txt    
             p.mb-2.m-top Más Características  
 
-        ol.lista-ol
+        ol.lista-ol.ms-4
           li 
             span.text-bold 1. 
             | Arquitectura distribuida.
-        ol.lista-ol
           li 
             span.text-bold 2. 
             | Gestión de direcciones y enrutamiento.
-        ol.lista-ol
           li 
             span.text-bold 3. 
             | Gestión de derechos de acceso.
-        ol.lista-ol
           li 
             span.text-bold 4. 
             | Cifrado
-        ol.lista-ol
           li 
             span.text-bold 5. 
             | Registros de mensajes.
-        ol.lista-ol
           li 
             span.text-bold 6. 
             | Balanceo de Carga.
-        ol.lista-ol
           li 
             span.text-bold 7. 
             | Federación de confianza. 

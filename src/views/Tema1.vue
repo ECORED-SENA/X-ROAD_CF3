@@ -6,11 +6,11 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 1 
-      .h3 Generalidades - Breve historia de la tecnología X-Road.
+      .h3 Generalidades - Breve historia de la tecnología X-Road
       
 
     .titulo-segundo
-      #t_1_1.h4 1.1 Qué es X-Road
+      #t_1_1.h4 1.1 ¿Qué es X-Road?
 
     p.mb-3 X-Road es una capa de intercambio de datos distribuidos que proporciona una forma estandarizada y segura de producir y consumir servicios.
 
@@ -28,7 +28,7 @@
     p.mb-5 #[strong X-Road] se lanza bajo licencia de código abierto del MIT y está disponible de forma gratuita.
 
     .titulo-segundo
-      #t_1_2.h4 1.2 Un Poco de Historia
+      #t_1_2.h4 1.2 Un poco de historia
 
     .row.align-items-center
       .col-lg-4.d-none.d-lg-block
@@ -42,14 +42,14 @@
     .row
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
-          img.mb-3(src='@/assets/curso/tema_1/img_4.svg' alt='AvatarTop')
+          img.mb-3(src='@/assets/curso/tema_1/img_5.svg' alt='AvatarTop')
           .tarjeta.color-secundario.p-4
             .h4.text-center Capa intermedia
             p Funciona como una #[strong capa intermedia] entre los sistemas de información que intercambian información (proveedores y consumidores).
 
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
-          img.mb-3(src='@/assets/curso/tema_1/img_5.svg' alt='AvatarTop')
+          img.mb-3(src='@/assets/curso/tema_1/img_4.svg' alt='AvatarTop')
           .tarjeta.color-secundario.p-4
             .h4.text-center Confianza
             p La comunicación dentro de X-Road se basa en la #[strong Confianza:] las entidades con certificados digitales válidos pueden intercambiar datos.

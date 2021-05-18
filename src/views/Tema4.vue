@@ -6,10 +6,10 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 4 
-      .h3 Para potenciar los Servicios Ciudadanos Digitales.
+      .h3 Para potenciar los Servicios Ciudadanos Digitales
     
     .titulo-segundo.mb-5
-      #t_4_1.h4 4.1 Implementación de X-Road a Nivel Mundial a 2020
+      #t_4_1.h4 4.1 Implementación de X-Road a nivel mundial a 2020
 
     .row.mb-5
       .col-lg-8
@@ -19,7 +19,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Mapa interactivo
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('https://x-road.global/xroad-world-map')" target="_blank")
+              a.boton.boton--b(href='https://x-road.global/xroad-world-map' target="_blank")
                 span Enlace Web
                 i.fas.fa-link
       .col-lg-4
@@ -72,8 +72,7 @@
           strong Componente 3
         p.mb-3
           strong Directorio de Servicios
-        p Herramienta que permite la #[strong publicación de la información general, semántica y técnica] de servicios de intercambio de información dispuestos por las autoridades y disponibles en la PDI que cumplen con los lineamientos del Marco de Interoperabilidad para Gobierno Digital.
-        img.d-none.d-lg-block.img-a(src="@/assets/curso/tema_4/img_3.png")
+        p.mb-3 Herramienta que permite la #[strong publicación de la información general, semántica y técnica] de servicios de intercambio de información dispuestos por las autoridades y disponibles en la PDI que cumplen con los lineamientos del Marco de Interoperabilidad para Gobierno Digital.        
 
     .row.justify-content-center
       .col-lg-3.td_color_2.p-4.mb-3
@@ -83,17 +82,27 @@
         p.mb-3
           strong Adaptador
 
-        p Componente opcional que las entidades pueden utilizar de manera independiente con el propósito de servir como intermediario en la exposición y consumo de servicios entre los sistemas de información de las entidades y el servidor X-Road instalado.
+        p
+         |Componente
+         strong opcional 
+         | que las entidades pueden utilizar de manera independiente con el propósito de servir como 
+         strong intermediario 
+         | en la 
+         strong exposición 
+         | y 
+         strong consumo 
+         | de servicios entre los sistemas de información de las entidades y el servidor X-Road instalado.
           
 
       .col-lg-6.mb-3
         .row.align-items-center
           .col-lg-2.d-none.d-lg-block
-            img.img-a(src="@/assets/curso/tema_4/img_7.png")
+            img.img-a.mnR(src="@/assets/curso/tema_4/img_7.png")
           .col-lg-8
+            img.d-none.d-lg-block.img-a(src="@/assets/curso/tema_4/img_3.png")
             .tabla-b__header.td_color_1
               .h6.mb-0 DIRECTORIO DE SERVICIOS
-            table.td_color_2
+            table.td_color_2.zInd3
               tr.text-center
                 td 
                   img.img-a(src="@/assets/curso/tema_4/img_4.png")
@@ -114,8 +123,9 @@
             .tabla-b__header.td_color_1
               .h6.mb-0
                 img.img-a(src="@/assets/curso/tema_4/img_6.png")
+            img.mb-2.d-none.d-lg-block.img-a(src="@/assets/curso/tema_4/img_9.png")
           .col-lg-2.d-none.d-lg-block
-            img.img-a(src="@/assets/curso/tema_4/img_7.png")
+            img.img-a.mnL(src="@/assets/curso/tema_4/img_8.png")
       .col-lg-3.td_color_2.p-4.mb-3
         p.mb-3.txt_color_5
           strong Componente 4
@@ -124,8 +134,7 @@
         p #[strong Estándar nacional] definido y administrado por #[strong MinTIC] en el cual se describen los conceptos y sintaxis de los elementos de datos que componen el conjunto de datos a intercambiar entre las autoridades.
     
     .row.justify-content-center.mb-5
-      .col-lg-5.mb-3
-        img.mb-2.d-none.d-lg-block.img-a(src="@/assets/curso/tema_4/img_9.png")
+      .col-lg-5.mb-3        
         p.mb-3.txt_color_5
           strong Componente 1
         p.mb-3
