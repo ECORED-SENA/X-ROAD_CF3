@@ -235,7 +235,7 @@ export default {
     },
     {
       referencia:
-        'Gobierno electrónico. ¿Estado, ciudadanía y democracia en Internet, Julie Massal, Carlos Germán Sandoval, Revista Análisis político nº 68, Bogotá, enero-abril, 2010: págs. 3-25?',
+        'Gobierno electrónico. Estado, ciudadanía y democracia en Internet, Julie Massal, Carlos Germán Sandoval, Revista Análisis político nº 68, Bogotá, enero-abril, 2010: págs. 3-25.',
     },
     {
       referencia:
