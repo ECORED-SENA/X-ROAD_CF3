@@ -23,13 +23,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Qué es X-Road',
+            titulo: '¿Qué es X-Road?',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Un Poco de Historia',
+            titulo: 'Un Poco de historia',
             hash: 't_1_2',
           },
           {
