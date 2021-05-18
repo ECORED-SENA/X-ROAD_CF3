@@ -199,8 +199,6 @@ export default {
       {
         nombre: 'Rafael Augusto Mantilla Lopez',
         cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -210,7 +208,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación de recursos',
+        cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },
